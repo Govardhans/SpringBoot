@@ -1,4 +1,4 @@
-package com.webservices.restfulwebservices.versioning;
+package com.webservices.restfulwebservices.filedemo.property;
 
 public class Name {
 	private String firstName;
